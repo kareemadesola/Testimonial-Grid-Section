@@ -75,7 +75,7 @@ development.**
 
 - Frontend Mentor - [@kareemadesola
   ](https://www.frontendmentor.io/profile/kareemadesola)
-- Twitter - [@kareemadesola](https://www.twitter.com/yourusername)
+- Twitter - [@kareemadesola](https://twitter.com/KareemOluwa)
 
 ## Acknowledgments
 
