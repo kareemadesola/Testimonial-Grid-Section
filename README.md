@@ -63,9 +63,6 @@ Users should be able to:
 - Use more of CSS grids in future projects to reinforce my understanding
 - Use CSS functions like `calc()` in future projects
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued
-development.**
-
 ### Useful resources
 
 - [CSS grid crash course 2022](https://www.youtube.com/watch?v=0xMQfnTU6oo&t=1s) - This course
